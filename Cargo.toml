@@ -1,0 +1,6 @@
+[package]
+name = "iron-test"
+version = "0.1.0"
+authors = ["Stephen Morman <stephen.morman@gmail.com>"]
+
+[dependencies]
